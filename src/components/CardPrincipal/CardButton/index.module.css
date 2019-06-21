@@ -1,0 +1,10 @@
+.cardButton{
+    background-color: #3abf94;
+    border-color: #3abf94;
+    border-radius: .3rem;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    width: 70px;
+    margin-left: 80%
+}
